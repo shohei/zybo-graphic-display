@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Wed May 17 00:58:00 2017
+# Process ID: 4648
+# Current directory: C:/Users/shohei/graphic_display/graphic_display.runs/impl_1
+# Command line: vivado.exe -log pattern.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pattern.tcl -notrace
+# Log file: C:/Users/shohei/graphic_display/graphic_display.runs/impl_1/pattern.vdi
+# Journal file: C:/Users/shohei/graphic_display/graphic_display.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source pattern.tcl -notrace
